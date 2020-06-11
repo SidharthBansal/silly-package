@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="primary-lukewrites",
+    name="mainpackage-sidharthbansal",
     version="0.0.10",
     author="Luke Petschauer",
     author_email="lukewrites@github.com",
